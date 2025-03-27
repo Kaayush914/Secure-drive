@@ -6,5 +6,5 @@
 2.npm install --legacy-peer-deps
 3.npm install --force
 4.npm install -g pnpm
- pnpm install
+pnpm install
 5.pnpm dev
