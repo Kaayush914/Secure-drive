@@ -1,0 +1,143 @@
+[
+  {
+    "latitude": "14.72402585",
+    "longitude": "78.61039332",
+    "Number_of_Vehicles": "1",
+    "Time": "17:42",
+    "Date": "04-01-2018"
+  },
+  {
+    "latitude": "14.76235346",
+    "longitude": "78.53404158",
+    "Number_of_Vehicles": "1",
+    "Time": "17:36",
+    "Date": "05-01-2018"
+  },
+  {
+    "latitude": "14.74560635",
+    "longitude": "78.47087739",
+    "Number_of_Vehicles": "2",
+    "Time": "00:15",
+    "Date": "06-01-2018"
+  },
+  {
+    "latitude": "28.61393383",
+    "longitude": "77.20902299",
+    "Number_of_Vehicles": "3",
+    "Time": "08:15",
+    "Date": "10-01-2018"
+  },
+  {
+    "latitude": "28.56271839",
+    "longitude": "77.27382712",
+    "Number_of_Vehicles": "2",
+    "Time": "09:30",
+    "Date": "12-01-2018"
+  },
+  {
+    "latitude": "28.53824933",
+    "longitude": "77.15937012",
+    "Number_of_Vehicles": "1",
+    "Time": "12:45",
+    "Date": "15-01-2018"
+  },
+  {
+    "latitude": "18.94026223",
+    "longitude": "72.82624308",
+    "Number_of_Vehicles": "4",
+    "Time": "18:20",
+    "Date": "17-01-2018"
+  },
+  {
+    "latitude": "18.92552314",
+    "longitude": "72.83283543",
+    "Number_of_Vehicles": "1",
+    "Time": "07:10",
+    "Date": "20-01-2018"
+  },
+  {
+    "latitude": "18.97128947",
+    "longitude": "72.80984537",
+    "Number_of_Vehicles": "2",
+    "Time": "22:05",
+    "Date": "22-01-2018"
+  },
+  {
+    "latitude": "12.97657421",
+    "longitude": "77.59348724",
+    "Number_of_Vehicles": "3",
+    "Time": "10:30",
+    "Date": "25-01-2018"
+  },
+  {
+    "latitude": "12.92783612",
+    "longitude": "77.62735412",
+    "Number_of_Vehicles": "2",
+    "Time": "16:15",
+    "Date": "28-01-2018"
+  },
+  {
+    "latitude": "13.01284562",
+    "longitude": "77.57198625",
+    "Number_of_Vehicles": "1",
+    "Time": "14:50",
+    "Date": "30-01-2018"
+  },
+  {
+    "latitude": "22.57256121",
+    "longitude": "88.35698732",
+    "Number_of_Vehicles": "3",
+    "Time": "09:25",
+    "Date": "02-02-2018"
+  },
+  {
+    "latitude": "22.51283642",
+    "longitude": "88.34192758",
+    "Number_of_Vehicles": "1",
+    "Time": "11:40",
+    "Date": "05-02-2018"
+  },
+  {
+    "latitude": "22.54796124",
+    "longitude": "88.37291847",
+    "Number_of_Vehicles": "2",
+    "Time": "19:05",
+    "Date": "08-02-2018"
+  },
+  {
+    "latitude": "17.42316452",
+    "longitude": "78.47328954",
+    "Number_of_Vehicles": "2",
+    "Time": "13:20",
+    "Date": "10-02-2018"
+  },
+  {
+    "latitude": "17.38741283",
+    "longitude": "78.45619372",
+    "Number_of_Vehicles": "3",
+    "Time": "15:35",
+    "Date": "13-02-2018"
+  },
+  {
+    "latitude": "17.44928175",
+    "longitude": "78.43709283",
+    "Number_of_Vehicles": "1",
+    "Time": "21:50",
+    "Date": "15-02-2018"
+  },
+  {
+    "latitude": "21.16428361",
+    "longitude": "72.83173649",
+    "Number_of_Vehicles": "1",
+    "Time": "06:45",
+    "Date": "18-02-2018"
+  },
+  {
+    "latitude": "21.18972345",
+    "longitude": "72.80917256",
+    "Number_of_Vehicles": "2",
+    "Time": "14:30",
+    "Date": "21-02-2018"
+  }
+]
+
